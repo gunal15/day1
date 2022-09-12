@@ -24,7 +24,7 @@ Object:
 In JavaScript, an object is a standalone entity, with properties and type.
 Compare it with a cup, for example. A cup is an object, with properties.
 A cup has a color, a design, weight, a material it is made of, etc.
-The same way, JavaScript objects can have properties, which define their characteristics.
+JavaScript objects can have properties, which define their characteristics.
 
 Creating Objects in JavaScript:
       By object literal
@@ -44,7 +44,7 @@ The syntax of creating object directly is given below:
        var objectname=new Object(); 
        
 By using an Object constructor
-      Here, you need to create function with arguments. 
+      We need to create function with arguments. 
       Each argument value can be assigned in the current object by using this keyword.
      
 
